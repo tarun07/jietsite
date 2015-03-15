@@ -1,0 +1,134 @@
+
+.section-nav-header-fac ul li a.current {
+    background: none repeat scroll 0 0 #5b5094;
+}
+.section-nav-header-fac ul li a {
+    border-right: 1px solid #717171;
+    color: #FFF;
+    display: table-cell;
+    font-size: 13px;
+    height: 60px;
+    width: 6%;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+.section-nav-header-fac ul li {
+    display: inline-block;
+    float: left;
+    position: relative;
+	width: 20%;
+}
+.section-nav-header-fac ul {
+    background: none repeat scroll 0 0 rgba(68, 68, 68, 0.95);
+    float: left;
+    margin-bottom: 0;
+    margin-left:6%;
+    width: 88.9%;
+}
+.section-nav-header-fac ul li a:hover {
+    background: none repeat scroll 0% 0% #333;
+	
+}
+
+.section-headerfac.bckgrnd-black {
+    background: none repeat scroll 0 0 rgba(24, 34, 40, 0.95);
+}
+.section-headerfac {
+    font-family: "dinbold","Helvetica Neue",Arial;
+    font-size: 36px;
+    line-height: 1;
+    margin-bottom: 10px;
+    padding: 30px;
+	
+	}
+.bckgrnd-black a{
+       color: #fff;
+	margin-left:4%;
+}
+.factext {
+
+text-align:left;
+font-size:1em;
+color:#555555;
+line-height:1.5em;
+margin-left:6%;
+margin-right:6%;
+
+}
+.factext  a{
+color:black;
+text-align:left;
+font-size:1.5em;
+width:100%;
+margin-left:2%;
+}
+.contentfac-main {
+ background: none repeat scroll 0 0 rgba(255, 255, 255, 255);
+   
+    padding: 4% 0% 4% 0%;
+      text-align: center;
+    width: 100%;
+	color:black;
+	min-height:250px;
+}
+ul.rigfac li img {
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px;
+	width:80%;
+	}
+ul.rigfac.columns-3 li {
+	width: 38.83%; /* this value + 2.5 should = 33% */
+	}
+.bank_link a {
+	color: #555555;
+   
+    text-decoration: none;
+    font-size: 1em;
+    line-height: 1.6em;
+    width: 32%;
+	padding-left:16%;
+   
+}
+.bank_link a:hover{
+	color:black;
+	cursor:pointer;
+	text-decoration:underline;
+	font-size:1.1em;
+	width:32%;
+}
+
+
+/* this content is for research and developmetn page */
+.section-nav-recheader ul li a.current {
+    background: none repeat scroll 0 0 #5b5094;
+}
+.section-nav-recheader ul li a {
+    border-right: 1px solid #717171;
+    color: #FFF;
+    display: table-cell;
+    font-size: 13px;
+    height: 60px;
+    width: 6%;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+.section-nav-recheader ul li {
+    display: inline-block;
+    float: left;
+    position: relative;
+	width: 25%;
+}
+.section-nav-recheader ul {
+    background: none repeat scroll 0 0 rgba(68, 68, 68, 0.95);
+    float: left;
+    margin-bottom: 0;
+    margin-left:11.8%;
+    width: 77.3%;
+}
+.section-nav-recheader ul li a:hover {
+    background: none repeat scroll 0% 0% #333;
+	
+}
