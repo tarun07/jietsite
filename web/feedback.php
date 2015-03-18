@@ -204,7 +204,7 @@ function   sendemail(val)
 		<tr><td>
 		</td>
 		<td>
-		<input width="100px" type="submit" onClick="enq_validation();" value="Submit">&nbsp;&nbsp;
+		<input width="100px" type="button" onClick="enq_validation();" value="Submit">&nbsp;&nbsp;
 		<input type="reset" value="Reset">
 		</td></tr>
 		
